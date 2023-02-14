@@ -1,0 +1,49 @@
+/* Desktop View */
+
+@media (max-width: 1880px) {
+    body {
+      background-image: url('https://dwgkfo5b3odmw.cloudfront.net/img/manga_series_header/466-SeriesHeaders_DBSuper_2000x800_wm.jpg');
+      color:lemonchiffon;
+    }
+    .cone{
+      border:solid red;
+        width:190px;
+        height:190px;
+        background-image: url('https://devdiscourse.blob.core.windows.net/devnews/23_10_2020_17_38_04_3127622.jpg');
+        background-size:cover;
+      }
+  }
+
+  /* ---------------------------------------------------------------- */
+
+  /* Ipad -MidScreen */
+  @media (max-width: 1280px) {
+    body {
+      
+      background-image:url('https://c4.wallpaperflare.com/wallpaper/738/62/544/naruto-chidori-naruto-naruto-uzumaki-rasengan-naruto-sasuke-uchiha-hd-wallpaper-preview.jpg');
+      color:black;
+    }
+
+    .cone{
+      border:solid red;
+        width:190px;
+        height:190px;
+        background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYfDGGdpycsDfVYOfwPTpwvCNxKdtImn9kUg&usqp=CAU');
+        background-size:cover;
+      }
+  }
+  /* ---------------------------------------------------------------- */
+
+  /* Mobile View */
+  @media (max-width: 680px) {
+    body {
+      background-image:url('https://external-preview.redd.it/QKRtrkuQUbAax7EIKL3V4Y0m7V08GUfB6XA83a-0D3Y.jpg?width=640&crop=smart&auto=webp&s=1e4a84ed46a9a805b683937559959dedeefdde10');
+      color:white;
+    }
+
+    .cone{
+      border:solid red;
+        width:190px;
+        height:190px;
+        background-image: url('https://static.wikia.nocookie.net/onepiece/images/e/e5/Monkey_D._Luffy_Anime_Pre_Timeskip_Infobox.png/revision/latest?cb=2https://upload.wikimedia.org/wikipedia/en/c/cb/Monkey_D_Luffy.png0220726125012')};
+  /* ----------------------------------------------- */
